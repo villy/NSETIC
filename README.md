@@ -1,2 +1,2 @@
 # NSETIC
-Novaschema SATS export to iCalendar converter
+Novaschem SATS export to iCalendar converter

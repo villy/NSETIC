@@ -6,7 +6,7 @@ namespace NSETIC
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("NSETIC - Novaschema SATS export to iCalendar converter");
+			Console.WriteLine ("NSETIC - Novaschem SATS export to iCalendar converter");
 			Console.WriteLine ("Test version 1");
 			NSETIC test = new NSETIC ();
 			test.Load ("DATA.TXT");
